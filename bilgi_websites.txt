@@ -1,0 +1,16 @@
+https://www.thehappycatsite.com/wp-content/uploads/2017/04/ab-4-759x1024.jpg
+https://tse1.explicit.bing.net/th?id=OIP.fDO-en7qEf3HAQJCqueUQgHaJ_&pid=Api&P=0&h=220
+
+https://stackoverflow.com/questions/37158246/how-to-download-images-from-beautifulsoup
+https://dev.to/dmitryzub/scrape-yahoo-search-with-python-2bk4
+https://stackoverflow.com/questions/55664961/cannot-get-images-from-webpage-with-high-resolution-using-beautifulsoup-and-pyth
+https://gist.github.com/genekogan/ebd77196e4bf0705db51f86431099e57
+https://github.com/psf/requests/issues/4246
+https://stackoverflow.com/questions/23013220/max-retries-exceeded-with-url-in-requests
+https://stackoverflow.com/questions/72671331/python-error-read-files-built-in-method-read-of-io-textiowrapper-object-at-0x0
+https://stackoverflow.com/questions/11806559/removing-first-x-characters-from-string
+https://stackoverflow.com/questions/74751254/removing-all-duplicate-images-with-different-filenames-from-a-directory
+https://medium.com/@urvisoni/removing-duplicate-images-through-python-23c5fdc7479e
+https://towardsdatascience.com/removing-duplicate-or-similar-images-in-python-93d447c1c3eb
+https://docs.python.org/3/library/hashlib.html
+https://docs.python.org/3/tutorial/datastructures.html
